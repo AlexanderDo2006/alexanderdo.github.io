@@ -304,7 +304,7 @@ button:focus-visible {
   text-decoration: none;
 }
 
-.pub-title:hover {
+a.pub-title:hover {
   color: var(--accent);
   text-decoration-color: currentColor;
 }
